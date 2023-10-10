@@ -1,0 +1,7 @@
+{
+  "name": "SoftCode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
